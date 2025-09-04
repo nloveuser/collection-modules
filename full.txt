@@ -3,3 +3,4 @@ Always Online
 fheta
 AvatarManager
 SSend
+ЦП Интел Коре)
