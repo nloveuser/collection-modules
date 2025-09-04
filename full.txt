@@ -8,6 +8,7 @@ KOTautomess
 ImageToGif
 Always Online
 fheta
+KOTbanvote
 AvatarManager
 username_module
 Stats
