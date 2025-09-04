@@ -1,6 +1,7 @@
 KOTpassfolder
 UnbanAll
 KOTimgbb
+voicetotext
 triggers
 Weather
 Spam
