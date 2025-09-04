@@ -10,6 +10,7 @@ AvatarManager
 username_module
 Stats
 HAFK
+KOTURLShortener
 ReadFile
 SecretMessage
 SSend
