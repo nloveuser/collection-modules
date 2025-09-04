@@ -1,5 +1,0 @@
-Spam
-Limoka
-ChatModule
-tester
-DelMe
