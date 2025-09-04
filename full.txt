@@ -6,6 +6,7 @@ ImageToGif
 Always Online
 fheta
 AvatarManager
+username_module
 Stats
 HAFK
 ReadFile
