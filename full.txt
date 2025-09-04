@@ -1,4 +1,5 @@
 UnbanAll
+triggers
 Weather
 Spam
 ImageToGif
