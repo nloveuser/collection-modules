@@ -2,6 +2,7 @@ Spam
 Always Online
 fheta
 AvatarManager
+Stats
 HAFK
 ReadFile
 SecretMessage
