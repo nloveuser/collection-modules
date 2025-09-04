@@ -1,4 +1,5 @@
 Spam
 Always Online
 fheta
+AvatarManager
 SSend
