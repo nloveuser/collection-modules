@@ -2,6 +2,8 @@ Spam
 Always Online
 fheta
 AvatarManager
+HAFK
 ReadFile
+SecretMessage
 SSend
 ЦП Интел Коре)
