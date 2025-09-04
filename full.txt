@@ -1,5 +1,6 @@
 KOTpassfolder
 UnbanAll
+KOTimgbb
 triggers
 Weather
 Spam
