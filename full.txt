@@ -1,3 +1,4 @@
+KOTpassfolder
 UnbanAll
 triggers
 Weather
@@ -12,5 +13,6 @@ HAFK
 ReadFile
 SecretMessage
 SSend
+KOTaiwaifu
 ЦП Интел Коре)
 ToDo
