@@ -6,6 +6,7 @@ triggers
 Weather
 Spam
 KOTautomess
+Conthelper
 ImageToGif
 Always Online
 fheta
