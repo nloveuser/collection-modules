@@ -9,6 +9,7 @@ Spam
 KOTautomess
 Conthelper
 ImageToGif
+ЦПИнтелКоре)
 fheta
 KOTbanvote
 Imitator
@@ -22,5 +23,4 @@ SecretMessage
 AlwaysOnline
 SSend
 KOTaiwaifu
-ЦП Интел Коре)
 ToDo
