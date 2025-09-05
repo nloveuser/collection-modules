@@ -9,7 +9,6 @@ Spam
 KOTautomess
 Conthelper
 ImageToGif
-Always Online
 fheta
 KOTbanvote
 Imitator
@@ -20,6 +19,7 @@ HAFK
 KOTURLShortener
 ReadFile
 SecretMessage
+AlwaysOnline
 SSend
 KOTaiwaifu
 ЦП Интел Коре)
