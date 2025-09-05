@@ -4,6 +4,7 @@ KOTimgbb
 voicetotext
 triggers
 Weather
+antispam
 Spam
 KOTautomess
 Conthelper
