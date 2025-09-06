@@ -1,4 +1,5 @@
 KOTpassfolder
+AntiSpam
 SpotifyMod
 UnbanAll
 KOTimgbb
