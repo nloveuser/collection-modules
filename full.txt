@@ -19,6 +19,7 @@ Sglypa
 username_module
 Stats
 HAFK
+Шашки
 KOTURLShortener
 ReadFile
 SecretMessage
