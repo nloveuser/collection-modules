@@ -9,6 +9,7 @@ antispam
 Spam
 KOTautomess
 Conthelper
+antispammod
 ImageToGif
 ЦПИнтелКоре)
 fheta
