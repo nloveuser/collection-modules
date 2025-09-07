@@ -4,6 +4,7 @@ SpotifyMod
 UnbanAll
 KOTimgbb
 voicetotext
+Gemini
 triggers
 Weather
 Spam
